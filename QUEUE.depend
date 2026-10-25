@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1792910316 source:d:\ntc\26-27_1st\dt\ta2\benchmarkingsuite.cpp
+	"BenchmarkingSuite.h"
+	"SearchSortEngine.h"
+	"EntityModel.h"
+	<iostream>
+	<chrono>
+	<cstdlib>
+
+1792908266 d:\ntc\26-27_1st\dt\ta2\benchmarkingsuite.h
+
+1792908253 d:\ntc\26-27_1st\dt\ta2\searchsortengine.h
+	"EntityModel.h"
+
+1792908203 d:\ntc\26-27_1st\dt\ta2\entitymodel.h
+	<string>
+
+1792908220 source:d:\ntc\26-27_1st\dt\ta2\linkedlist.cpp
+	"LinkedListEngine.h"
+	<iostream>
+
+1792908215 d:\ntc\26-27_1st\dt\ta2\linkedlistengine.h
+	"EntityModel.h"
+
+1792908246 source:d:\ntc\26-27_1st\dt\ta2\queueengine.cpp
+	"QueueEngine.h"
+	<iostream>
+
+1792908239 d:\ntc\26-27_1st\dt\ta2\queueengine.h
+	"EntityModel.h"
+
+1792908258 source:d:\ntc\26-27_1st\dt\ta2\searchsortengine.cpp
+	"SearchSortEngine.h"
+
+1792908233 source:d:\ntc\26-27_1st\dt\ta2\stackengine.cpp
+	"StackEngine.h"
+	<iostream>
+
+1792908228 d:\ntc\26-27_1st\dt\ta2\stackengine.h
+	"EntityModel.h"
+	<string>
+
+1792908220 source:d:\ntc\26-27_1st\dt\ta2\linkedlistengine.cpp
+	"LinkedListEngine.h"
+	<iostream>
+
+1792910267 source:d:\ntc\26-27_1st\dt\ta2\queue\main.cpp
+	<iostream>
+	<limits>
+	"LinkedListEngine.h"
+	"StackEngine.h"
+	"QueueEngine.h"
+	"SearchSortEngine.h"
+	"BenchmarkingSuite.h"
+
+1792908215 d:\ntc\26-27_1st\dt\ta2\queue\linkedlistengine.h
+	"EntityModel.h"
+
+1792908203 d:\ntc\26-27_1st\dt\ta2\queue\entitymodel.h
+	<string>
+
+1792908228 d:\ntc\26-27_1st\dt\ta2\queue\stackengine.h
+	"EntityModel.h"
+	<string>
+
+1792908239 d:\ntc\26-27_1st\dt\ta2\queue\queueengine.h
+	"EntityModel.h"
+
+1792908253 d:\ntc\26-27_1st\dt\ta2\queue\searchsortengine.h
+	"EntityModel.h"
+
+1792908266 d:\ntc\26-27_1st\dt\ta2\queue\benchmarkingsuite.h
+
